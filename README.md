@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mahima Kumar, a sophomore at the University of Maryland - College Park, studying for a BS in Computer Science
+- 👀 I’m interested in cybersecurity, specifically cryptology and hacking, alongside web and app development 
+- 🌱 I’m currently learning algorithms and discrete structures in school, alongside AI development and cybersecurity outside of school!
+- 📫 Reach me at 5109018986, or mahimasvk@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Connect with me on linkedin, @mahimasnk!
